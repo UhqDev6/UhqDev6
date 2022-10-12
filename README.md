@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e2/1f/8c/e21f8cbb37f21ff7ed52032499dcc779.jpg)]
+[![MasterHead](https://i.pinimg.com/originals/ac/84/7a/ac847ade3f360e03e297e05a57a4c150.jpg)](https://github.com/UhqDev6/portfolio-with-html-css-dan-javascript)
 <h1 align="center">Hi 👋, I'm M. Dhiya Ulhaq</h1>
 <h3 align="left">Frontend developer from Indonesia 🇮🇩</h3>
 <img align="right" alt=“Coding” width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" />
